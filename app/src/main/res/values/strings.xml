@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab_9.1</string>
+    <string name="start_service">Start Service</string>
+    <string name="humidity">Humidity:</string>
+    <string name="pressure">Pressure:</string>
+    <string name="temperature">Temperature:</string>
+    <string name="timestamp">Timestamp:</string>
+    <string name="id">ID:</string>
+    <string name="stop_service">Stop Service</string>
+</resources>
